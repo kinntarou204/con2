@@ -1,0 +1,42 @@
+
+header{
+    border-bottom: 3px solid black;
+}
+
+details li{
+    font-size: 20px;
+}
+
+.from-my{
+    font-size: 21px;
+}
+
+.from-my div{
+    margin-top: 30px;
+}
+
+body{
+    margin-top: 50px;
+    padding: 0 30px;
+}
+
+a{
+    margin: 8%;
+    margin-right: 2%;
+}
+
+.pageback{
+    font-size: 21px;
+    margin-left: 0;
+}
+
+.login{
+    text-align: center;
+    font-size: 18px;
+}
+
+.buy{
+    font-size: 23px;
+    margin-top: 5%;
+    margin-bottom: 20%;
+}
